@@ -8,7 +8,7 @@ env:
   AZURE_FUNCTIONAPP_PACKAGE_PATH: Fitness-Pro-API---Azure-.Net/FitnessPro/published
   CONFIGURATION: Release
   DOTNET_CORE_VERSION: 3.1.201
-  WORKING_DIRECTORY: Fitness-Pro-API---Azure-.Net/FitnessPro
+  WORKING_DIRECTORY: Fitness-Pro-API---Azure-.Net/FitnessPro/FitnessPro.csproj
   DOTNET_CORE_VERSION_INPROC: ''
 jobs:
   build-and-deploy:
