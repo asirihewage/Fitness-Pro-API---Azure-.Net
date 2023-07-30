@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2023-07-30T03:10:31.1611618Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2023-07-30T03:10:30.1054877Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "fitnesspro"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "30e73766-5afb-46a9-95c4-b5c475a1286d"
+    }
+  }
+}

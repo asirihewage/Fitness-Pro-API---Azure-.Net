@@ -1,0 +1,34 @@
+{
+  "dependencies": {
+    "storage1": {
+      "restored": true,
+      "restoreTime": "2023-07-30T04:54:37.5414135Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2023-07-30T04:56:08.3860322Z"
+    }
+  },
+  "parameters": {
+    "storage1.resourceGroupName": {
+      "Name": "storage1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "fitnesspro"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "30e73766-5afb-46a9-95c4-b5c475a1286d"
+    },
+    "storage1.subscriptionId": {
+      "Name": "storage1.subscriptionId",
+      "Type": "subscription",
+      "Value": "30e73766-5afb-46a9-95c4-b5c475a1286d"
+    },
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "DefaultResourceGroup-null"
+    }
+  }
+}

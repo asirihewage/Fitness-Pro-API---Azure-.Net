@@ -1,0 +1,7 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=fitnesspro;AccountKey=Vo4KSJBQEDWbB4emP/3WJEzZbr8JHN45Ki9qwbxitoO3t9VkcvtXXVRCOJUEAbGtqBXyaIs44yEi+AStTRTp4w==;BlobEndpoint=https://fitnesspro.blob.core.windows.net/;TableEndpoint=https://fitnesspro.table.core.windows.net/;QueueEndpoint=https://fitnesspro.queue.core.windows.net/;FileEndpoint=https://fitnesspro.file.core.windows.net/",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    }
+}
